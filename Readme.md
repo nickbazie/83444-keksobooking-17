@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Mykola Voloshchuk](https://up.htmlacademy.ru/javascript/17/user/83444).
-* Наставник: `Неизвестно`.
+* Наставник: Александр Смирнов.
 
 ---
 
