@@ -2,6 +2,8 @@
 
 var locationOverlay = document.querySelector('.map');
 
+locationOverlay.classList.remove('map--faded');
+
 var YMIN = 130;
 var YMAX = 630;
 
